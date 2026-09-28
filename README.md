@@ -6,7 +6,7 @@ guillermo
 ┌──(h1trx㉿devscorp)-[~]
 └─$ cat about.txt
 offensive security · code · philosophy
-ex red team, microsoft colombia (2021-2023)
+red team, microsoft colombia (2021-2023)
 bug bounty hunter
 ```
 

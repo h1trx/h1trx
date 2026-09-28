@@ -1,59 +1,64 @@
-# 🕵️‍♂️ ¡Hola, soy Guillermo!
+```
+┌──(h1trx㉿devscorp)-[~]
+└─$ whoami
+guillermo
 
-¡Bienvenido a mi rincón en GitHub! Soy un hacker apasionado con un historial en el Red Team de Microsoft Colombia y un cazador de recompensas en el mundo del **Bug Bounty**. 🚀🔍
+┌──(h1trx㉿devscorp)-[~]
+└─$ cat sobre_mi.txt
+seguridad ofensiva · código · filosofía
+red team, microsoft colombia (2021-2023)
+bug bounty hunter
+```
 
-## 💻 Mi Arsenal de Habilidades
+> "So I start a revolution from my bed"
 
-- **Lenguajes de Programación**: JavaScript, C, C++, Java, Python, Bash 🧑‍💻
-- **Frameworks y Herramientas**: Node.js, Express, NMap, OSINT, Burp Suite, Metasploit ⚙️
-- **Especialidades**: Penetration Testing, Red Teaming, Bug Bounty Hunting 🔒
-
-## 🏆 Experiencia Destacada
-
-### **🔐 Red Team de Microsoft Colombia**  
-*2021 - 2023*  
-Enfrenté desafíos de seguridad complejos, identificando vulnerabilidades críticas y ayudando a fortificar sistemas y datos.
-
-### **💥 Bug Bounty Hunter**  
-*Presente*  
-Cazo vulnerabilidades en aplicaciones y servicios, siempre en busca de la próxima gran brecha que pueda ayudar a cerrar.
-
-## 🚀 Proyectos y Enfoque Actual
-
-Actualmente, estoy inmerso en la **caza de bugs** en plataformas de todo el mundo, aplicando técnicas avanzadas para mejorar la seguridad. ¿Tienes un reto de ciberseguridad? ¡Estoy listo para enfrentarlo!
-
-### **🔧 Proyecto: [Red Social](https://ecorp.infinityfreeapp.com)**
-En [**DevsCorp**](https://github.com/Guillo659#-mi-organizaci%C3%B3n) estamos desarrollando una **red social enfocada en artículos academicos y educativos**. Este proyecto incluye un apartado para compartir posts, ideas y videos relacionados con el ámbito académico y educativo. ¡Un espacio para conectar y aprender juntos!
-
-### **🔧 Proyecto: [Backend para GitHub Pages](https://github.com/Sena-11#nuestro-proyecto-principal)**
-Estamos construyendo un **sistema backend que permite a los usuarios crear y personalizar sus frontends en GitHub Pages**. Nosotros proporcionamos el backend necesario para gestionar y almacenar el contenido del blog, facilitando la creación y mantenimiento de blogs personalizados con facilidad.
-
-
-## 🏢 Mi Organización
-
-### **[DevsCorp](https://github.com/DevsCorp-team)**
-**ECorp** es una organización dedicada al desarrollo de software y a la ciberseguridad. Recientemente, hemos detectado y reportado una filtración significativa de documentos de identificación de usuarios provenientes de varias páginas (la mayoría gubernamentales) debido a fallas en su seguridad. Nuestro compromiso sigue siendo el de fortalecer la seguridad y contribuir a un entorno digital más seguro.
-
-## 📚 Mi Blog
-
-### **[guysystem86](https://guysystem86.blogspot.com)**
-En *guysystem86*, comparto mis pensamientos, investigaciones y experiencias en el mundo de la seguridad cibernética y la tecnología. ¡Visítalo para estar al tanto de las últimas novedades y mis reflexiones personales!
-
-## 🔥 Mis Estadísticas:
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=h1trx&layout=compact&theme=dark&custom_title=Lenguajes+Más+Usados)
-
-## 🌐 Conectemos
-
-- **Twitter**: [@Guillermo_I_S_S](https://twitter.com/Guillermo_I_S_S) 🐦
-- **LinkedIn**: [guillermoiss](https://www.linkedin.com/in/guillermoiss/) 🔗
-- **Correo Electrónico**: [guillo.salgado@outlook.com](mailto:guillo.salgado@outlook.com) 📧
-
-<!--
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Guillo659&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
--->
 ---
 
-🎉 ¡Gracias por detenerte a ver mi perfil! Si te apasiona la seguridad cibernética tanto como a mí, no dudes en contactarme. ¡Siempre estoy listo para una nueva aventura en el mundo del hacking! 🤖
+## Sobre mí
+
+Hago seguridad ofensiva, programo y escribo. Sigo cazando vulnerabilidades desde mis días en el Red Team, y me interesa entender cómo se rompen las cosas, y también por qué la gente las construye como las construye.
+
+Fuera del código me muevo entre la filosofía y los libros, con el materialismo filosófico de Gustavo Bueno de fondo.
+
+> sin fantasmas, solo causas
+
+---
+
+## Herramientas
+
+| Área | Qué uso |
+|:--|:--|
+| Lenguajes | JavaScript, C, C++, Java, Python, Bash |
+| Web | Node.js, Express |
+| Ofensiva | Nmap, OSINT, Burp Suite, Metasploit |
+| Enfoque | Pentesting, Red Teaming, Bug Bounty |
+
+---
+
+## Camino
+
+```mermaid
+timeline
+    title El camino hasta ahora
+    2021 - 2023 : Red Team en Microsoft Colombia
+    Desde entonces : Bug bounty : Reporte de documentos de identidad filtrados
+    Ahora : Devscorp : Red social académica
+```
+
+---
+
+## Ahora
+
+Mi foco es [Devscorp](https://github.com/devscorp-co), una organización dedicada al desarrollo de software y la ciberseguridad. Estamos construyendo una red social para contenido académico y educativo, donde se puedan compartir publicaciones, ideas y videos.
+
+Hace poco detectamos y reportamos filtraciones de documentos de identidad en varios sitios web, la mayoría gubernamentales, causadas por fallos de seguridad. Seguimos con esa línea de trabajo.
+
+---
+
+## Escritura
+
+[guysystem86](https://guysystem86.blogspot.com): seguridad, tecnología y lo que se me ocurre por el camino.
+
+---
+
+[Twitter](https://twitter.com/Guillermo_I_S_S) · [LinkedIn](https://www.linkedin.com/in/guillermoiss/) · [Correo](mailto:guillo.salgado@outlook.com) · [Read this in English](https://github.com/h1trx/h1trx/blob/main/README.md)
